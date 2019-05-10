@@ -1,0 +1,1 @@
+We first train model on the trainset to distinguish the general object, then fine-tune the model on the augment data of the first frame of the testset videos to distinguish the specific object,  and finally complete the inference with the object tracking bbox.

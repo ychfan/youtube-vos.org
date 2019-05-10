@@ -1,0 +1,40 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "People"
+    url: /people/
+  - title: "Dataset"
+    url: /dataset/
+  - title: "Challenge"
+    url: /challenge/2019/
+
+
+dataset:
+  - title: Dataset
+    children:
+      - title: "Overview"
+        url: /dataset/
+      - title: "Video Object Segmentation"
+        url: /dataset/vos/
+      - title: "Video Instance Segmentation"
+        url: /dataset/vis/
+      - title: "Term of Use"
+        url: /dataset/term/
+
+challenge:
+  - title: "2019"
+    children:
+      - title: Challenge
+        url: /challenge/2019/
+      - title: Workshop
+        url: /challenge/2019/workshop/
+      - title: Leaderboard
+        url: /challenge/2019/leaderboard/
+  - title: "2018"
+    children:
+      - title: Challenge
+        url: /challenge/2018/
+      - title: Workshop
+        url: /challenge/2018/workshop/
+      - title: Leaderboard
+        url: /challenge/2018/leaderboard/
