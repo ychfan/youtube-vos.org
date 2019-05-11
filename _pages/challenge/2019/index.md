@@ -30,8 +30,8 @@ As a continuous effort to push forward the research on video object segmentation
 
 
 ## Submission
-* Track 1: Video Object Segmentation
-* Track 2: Video Instance Segmentation
+* Track 1: Video Object Segmentation (will be released soon)
+* Track 2: Video Instance Segmentation (will be released soon)
 
 
 ## Organizers

@@ -38,4 +38,4 @@ We have set up an evaluation server on CodaLab for the convenience of evaluating
 
 
 ## Data Download
-* 2019 version
+* 2019 version (will be released soon)

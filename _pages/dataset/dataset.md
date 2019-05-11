@@ -17,8 +17,8 @@ sidebar:
 
 ## Download
 Video Object Segmentation
-* 2019 version
+* 2019 version (will be released soon)
 * [2018 version](https://competitions.codalab.org/competitions/19544#participate-get-data)
 
 Video Instance Segmentation
-* 2019 version
+* 2019 version (will be released soon)
