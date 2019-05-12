@@ -38,7 +38,7 @@ As a continuous effort to push forward the research on video object segmentation
 
 :-:|:-:|:-:|:-:|:-:|:-:
 <img src="{{ site.baseurl }}/assets/people/NingXu.jpg" width="500" alt="Ning Xu" />|<img src="{{ site.baseurl }}/assets/people/LinjieYang.jpg" width="500" alt="Linjie Yang" />|<img src="{{ site.baseurl }}/assets/people/YuchenFan.jpg" width="500" alt="Yuchen Fan" />|<img src="{{ site.baseurl }}/assets/people/Huang.jpg" width="500" alt="Thomas S. Huang" />|<img src="{{ site.baseurl }}/assets/people/JianchaoYang.jpg" width="500" alt="Jianchao Yang" />|<img src="{{ site.baseurl }}/assets/people/HonghuiShi.jpg" width="500" alt="Honghui Shi" />
-**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Adobe Research | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance AI Lab | **Yuchen Fan**<br />UIUC | **Thomas S. Huang**<br />UIUC | **Jianchao Yang**<br />ByteDance AI Lab | **Honghui Shi**<br />UIUC
+**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Adobe Research | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance AI Lab | **Yuchen Fan**<br />UIUC | **Thomas S. Huang**<br />UIUC | **Jianchao Yang**<br />ByteDance AI Lab | **[Honghui Shi](https://www.honghuishi.com/)**<br />UIUC
 
 
 ## Contact
