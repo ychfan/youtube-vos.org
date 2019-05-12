@@ -48,6 +48,6 @@ For challenge related questions, you can also use codalab forums.
 
 ## Sponsors
 
-:-:|:-:|:-:|:-:|:-:
-<img src="{{ site.baseurl }}/assets/sponsors/ByteDance.png" width="500" alt="ByteDance" />|<img src="{{ site.baseurl }}/assets/sponsors/Adobe.png" width="500" alt="Adobe" />|<img src="{{ site.baseurl }}/assets/sponsors/UIUC.jpg" width="500" alt="UIUC" />|<img src="{{ site.baseurl }}/assets/sponsors/Snap.jpg" width="500" alt="Snap" />|<img src="{{ site.baseurl }}/assets/sponsors/CAS.png" width="500" alt="Chinese Academy of Sciences" />|
-[ByteDance](https://www.bytedance.com/)|[Adobe](https://www.adobe.com/)|[UIUC](https://illinois.edu/)|[Snap](https://www.snap.com/)|[Chinese Academy of Sciences](http://english.cas.cn/)
+:-:|:-:|:-:|:-:
+<img src="{{ site.baseurl }}/assets/sponsors/ByteDance.png" width="500" alt="ByteDance" />|<img src="{{ site.baseurl }}/assets/sponsors/Adobe.png" width="500" alt="Adobe" />|<img src="{{ site.baseurl }}/assets/sponsors/UIUC.jpg" width="500" alt="UIUC" />|<img src="{{ site.baseurl }}/assets/sponsors/Snap.jpg" width="500" alt="Snap" />
+[ByteDance](https://www.bytedance.com/)|[Adobe](https://www.adobe.com/)|[UIUC](https://illinois.edu/)|[Snap](https://www.snap.com/)
