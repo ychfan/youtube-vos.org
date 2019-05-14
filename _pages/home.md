@@ -32,7 +32,7 @@ Please cite the following papers if you find our dataset is useful.
 * [Download the paper that describes a RNN method trained on YouTube-VOS.](https://arxiv.org/abs/1809.00461)
 
 ### Video instance segmentation
-* Download the paper that describes the video instance segmentation task, dataset and baselines (will be released soon).
+* [Download the paper that describes the video instance segmentation task, dataset and baselines.](https://arxiv.org/abs/1905.04804)
 
 
 ## Dataset examples

@@ -10,7 +10,7 @@ sidebar:
 ---
 
 ## Overview
-Video instance segmentation  extends the image instance segmentation task from the image domain to the video domain. The new problem aims at **simultaneous detection, segmentation and tracking** of object instances in videos.  Given a test video,  the task requires not only the masks of all instances of a predefined category set to be labeled but also the instance identities across frames to be associated. A detailed explanation of the new task can be found in our paper.
+Video instance segmentation  extends the image instance segmentation task from the image domain to the video domain. The new problem aims at **simultaneous detection, segmentation and tracking** of object instances in videos.  Given a test video,  the task requires not only the masks of all instances of a predefined category set to be labeled but also the instance identities across frames to be associated. A detailed explanation of the new task can be found in our [paper](https://arxiv.org/abs/1905.04804).
 
 ## Dataset Statistics
 We collected the first large-scale dataset for video instance segmentation, called **YouTube-VIS**, which is based on our initial YouTube-VOS dataset. Specifically, our new dataset has the following features.
