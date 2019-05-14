@@ -13,6 +13,8 @@ sidebar:
 ## Introduction
 As a continuous effort to push forward the research on video object segmentation tasks, we plan to host a second workshop with a challenge based on the YouTube-VOS dataset, targeting at more diversified problem settings, i.e., we plan to provide two challenge tracks in this workshop. The first track targets at semi-supervised video object segmentation, which is the same setting as in the 1st workshop. The second track will be a new task named video instance segmentation, which targets at automatically segmenting all object instances of pre-defined object categories from videos. For example, the video instance segmentation algorithm is required to segment both the person and the skateboard in the figure below, and it is required to give predictions of object categories. Video instance segmentation is a natural extension of image instance segmentation, which not only requires a per-image instance segmentation, and also the correspondence of object instances across the whole video.  The new task is described in detail in our [tech report](https://arxiv.org/abs/1905.04804). 
 
+:-:|:-:|:-:|:-:
+<img src="{{ site.baseurl }}/assets/samples/vis/sample1.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample2.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample3.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample4.png"/>
 
 ## Announcement
 * Codalab server will be ready soon. Stay tuned!
