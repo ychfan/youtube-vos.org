@@ -17,6 +17,7 @@ As a continuous effort to push forward the research on video object segmentation
 <img src="{{ site.baseurl }}/assets/samples/vis/sample1.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample2.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample3.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample4.png"/>
 
 ## Announcement
+* Codalab server is online now!
 * Codalab server will be ready soon. Stay tuned!
 
 
@@ -32,8 +33,8 @@ As a continuous effort to push forward the research on video object segmentation
 
 
 ## Submission
-* Track 1: Video Object Segmentation (will be released soon)
-* Track 2: Video Instance Segmentation (will be released soon)
+* [Track 1: Video Object Segmentation](https://competitions.codalab.org/competitions/23214)
+* [Track 2: Video Instance Segmentation](https://competitions.codalab.org/competitions/23215)
 
 
 ## Organizers
