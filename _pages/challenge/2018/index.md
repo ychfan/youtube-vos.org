@@ -41,10 +41,11 @@ Our workshop is co-located with another video segmentation workshop "[The Third 
 
 ## Organizers
 
-:-:|:-:|:-:|:-:|:-:|:-:
-<img src="{{ site.baseurl }}/assets/people/NingXu.jpg" width="500" alt="Ning Xu" />|<img src="{{ site.baseurl }}/assets/people/LinjieYang.jpg" width="500" alt="Linjie Yang" />|<img src="{{ site.baseurl }}/assets/people/YuchenFan.jpg" width="500" alt="Yuchen Fan" />|<img src="{{ site.baseurl }}/assets/people/Huang.jpg" width="500" alt="Thomas S. Huang" />|<img src="{{ site.baseurl }}/assets/people/JianchaoYang.jpg" width="500" alt="Jianchao Yang" />
-**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Adobe Research | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance AI Lab | **Yuchen Fan**<br />UIUC | **Thomas S. Huang**<br />UIUC | **Jianchao Yang**<br />ByteDance AI Lab
-
+:-:|:-:|:-:|:-:|:-:
+<img src="{{ site.baseurl }}/assets/people/NingXu.jpg" width="500" alt="Ning Xu" />|<img src="{{ site.baseurl }}/assets/people/LinjieYang.jpg" width="500" alt="Linjie Yang" />|<img src="{{ site.baseurl }}/assets/people/YuchenFan.jpg" width="500" alt="Yuchen Fan" />|<img src="{{ site.baseurl }}/assets/people/BrianPrice.jpg" width="500" alt="Brian Price" />|<img src="{{ site.baseurl }}/assets/people/WeiyaoLin.jpg" width="500" alt="Weiyao Lin" />
+**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Adobe Research | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />Snap Research | **Yuchen Fan**<br />UIUC | **[Brian Price](https://www.brianpricephd.com/)**<br />Adobe Research | **[Weiyao Lin](https://weiyaolin.github.io/)**<br />SJTU
+<img src="{{ site.baseurl }}/assets/people/MichaelYingYang.jpg" width="500" alt="Michael Ying Yang" />|<img src="{{ site.baseurl }}/assets/people/JianchaoYang.jpg" width="500" alt="Jianchao Yang" />|<img src="{{ site.baseurl }}/assets/people/JieboLuo.jpg" width="500" alt="Jiebo Luo" />|<img src="{{ site.baseurl }}/assets/people/Huang.jpg" width="500" alt="Thomas S. Huang" />
+**[Michael Ying Yang](https://sites.google.com/site/michaelyingyang/)**<br />U of Twente | **[Jianchao Yang](http://www.ifp.illinois.edu/~jyang29/)**<br />ByteDance AI Lab | **[Jiebo Luo](http://www.cs.rochester.edu/u/jluo/)**<br />U of Rochester | **Thomas S. Huang**<br />UIUC
 
 ## Sponsors
 
