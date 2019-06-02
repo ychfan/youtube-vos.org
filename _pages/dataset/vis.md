@@ -26,8 +26,8 @@ We believe YouTube-VIS can serve as a valuable benchmark for not only the video 
 
 ## Evaluation
 We borrow the standard evaluation metrics in image instance segmentation with modification adapted to our new task. Specifically, the metrics are 
-* Average Precision (AP). AP is defined as the area under the precision-recall (PR) curve.  A confidence score (between 0 and 1) which measures the confidence of a predicted category for an instance  is needed to plot the PR curve. AP is averaged over multiple intersection-over-union (IoU) thresholds. We follow the COCO evaluation metrics to use 10 IoU thresholds from 50% to 95% at step 5%. 
-* Average Recall (AR). AR is defined as the maximum recall given some fixed number of segmented instances per video. 
+* **Average Precision (AP)**. AP is defined as the area under the precision-recall (PR) curve.  A confidence score (between 0 and 1) which measures the confidence of a predicted category for an instance  is needed to plot the PR curve. AP is averaged over multiple intersection-over-union (IoU) thresholds. We follow the COCO evaluation metrics to use 10 IoU thresholds from 50% to 95% at step 5%. 
+* **Average Recall (AR)**. AR is defined as the maximum recall given some fixed number of segmented instances per video. 
 
 Both of the two metrics are first evaluated per category and then averaged over the category set.
 

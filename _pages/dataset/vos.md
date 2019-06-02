@@ -16,12 +16,12 @@ Semi-supervised video object segmentation targets at segmenting a particular obj
 ## Dataset Statistics
 Our dataset for video object segmentation was first released in 2018 in conjunction with a workshop challenge. In 2019, we further augment the dataset with more videos and object annotations (a subset of this dataset is carried out for the task of [video instance segmentation]({{ site.baseurl }}/dataset/vis/)).
 
-The 2018 version was used for "[the 1st large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2018/)" at ECCV 2018. It contains three subsets. 
+**The 2018 version** was used for "[the 1st large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2018/)" at ECCV 2018. It contains three subsets. 
 * Training: 3471 videos with dense (6 fps) object annotations, 65 categories and 5945 unique object instances.
 * Validation: 474 videos,  65 training (seen) categories, 26 unseen categories and 894 unique object instances.
 * Test: 508 videos, 65 training (seen) categories, 29 unseen categories and 915 unique object instances.
 
-The 2019 version will be used for "[the 2nd large-scale video object segmentation challenge" at ICCV 2019]({{ site.baseurl }}/challenge/2019/)". It augments the 2018 version with more videos and annotations.
+**The 2019 version** will be used for "[the 2nd large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2019/)" at ICCV 2019. It augments the 2018 version with more videos and annotations.
 * Training: 3471 videos, 65 categories and 6459 unique object instances.
 * Validation: 507 videos, 65 training categories, 26 unseen categories and 1063 unique object instances. 
 * Test: 541 videos, 65 training categories, 29 unseen categories and 1092 unique object instances.
