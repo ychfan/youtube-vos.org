@@ -33,8 +33,8 @@ As a continuous effort to push forward the research on video object segmentation
 
 
 ## Submission
-* [Track 1: Video Object Segmentation](https://competitions.codalab.org/competitions/23214)
-* [Track 2: Video Instance Segmentation](https://competitions.codalab.org/competitions/23215)
+* [Track 1: Video Object Segmentation](https://competitions-new.codalab.org/competitions/20127)
+* [Track 2: Video Instance Segmentation](https://competitions-new.codalab.org/competitions/20128)
 
 
 ## Organizers

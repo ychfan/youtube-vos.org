@@ -34,7 +34,7 @@ Both of the two metrics are first evaluated per category and then averaged over 
 The only modification made to the two standard metrics for our new task is the IoU computation. Because differently from image instance segmentation, each instance in a video contains a sequence of masks. Therefore, the IoU computation is carried out not only in the spatial domain, but also in the temporal domain, i.e. the sum of intersection at every single frame over the sum of union at every single frame.
 
 We have set up an evaluation server on CodaLab for the convenience of evaluating new algorithms. The submissions are ranked by Average Precision (AP). For more details of how to submit your results, please check the following link.
-* [Evaluation server for the 2019 version.](https://competitions.codalab.org/competitions/23215)
+* [Evaluation server for the 2019 version.](https://competitions-new.codalab.org/competitions/20128)
 
 
 ## Data Download

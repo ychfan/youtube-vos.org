@@ -35,7 +35,7 @@ Following previous video object segmentation challenge [DAVIS](http://davischall
 Note that in our videos, some objects first appear at middle frames instead of the first frame, be sure not to miss them! 
 
 We have set up evaluation servers on CodaLab for the convenience of evaluating new algorithms. For more details of how to submit your results, please check the following links.
-* [Evaluation server for the 2019 version.](https://competitions.codalab.org/competitions/23214)
+* [Evaluation server for the 2019 version.](https://competitions-new.codalab.org/competitions/20127)
 * [Evaluation server for the 2018 version.](https://competitions.codalab.org/competitions/19544)
 
 
