@@ -36,9 +36,9 @@ Note that in our videos, some objects first appear at middle frames instead of t
 
 We have set up evaluation servers on CodaLab for the convenience of evaluating new algorithms. For more details of how to submit your results, please check the following links.
 * [Evaluation server for the 2019 version.](https://competitions-new.codalab.org/competitions/20127)
-* [Evaluation server for the 2018 version.](https://competitions.codalab.org/competitions/19544)
+* [Evaluation server for the 2018 version.](https://competitions-new.codalab.org/competitions/19544)
 
 
 ## Data Download
 * [2019 version.](https://competitions-new.codalab.org/competitions/20127#participate-get_data)
-* [2018 version.](https://competitions.codalab.org/competitions/19544#participate-get-data)
+* [2018 version.](https://competitions-new.codalab.org/competitions/19544#participate-get-data)
