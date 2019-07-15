@@ -17,6 +17,7 @@ As a continuous effort to push forward the research on video object segmentation
 <img src="{{ site.baseurl }}/assets/samples/vis/sample1.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample2.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample3.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample4.png"/>
 
 ## Announcement
+* **Due to recent CodaLab's malfunction, we lost all the history. Please register and submit on the new servers ([Track1](https://competitions-new.codalab.org/competitions/20127), [Track2](https://competitions-new.codalab.org/competitions/20128)).**
 * Codalab server is online now!
 * Codalab server will be ready soon. Stay tuned!
 
