@@ -38,4 +38,4 @@ We have set up an evaluation server on CodaLab for the convenience of evaluating
 
 
 ## Data Download
-* [2019 version.](https://competitions.codalab.org/competitions/23215#participate-get_data)
+* [2019 version.](https://competitions-new.codalab.org/competitions/20128#participate-get_data)
