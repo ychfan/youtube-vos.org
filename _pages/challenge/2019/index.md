@@ -17,6 +17,7 @@ As a continuous effort to push forward the research on video object segmentation
 <img src="{{ site.baseurl }}/assets/samples/vis/sample1.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample2.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample3.png"/>|<img src="{{ site.baseurl }}/assets/samples/vis/sample4.png"/>
 
 ## Announcement
+* The 2nd Large-scale Video Object Segmentation Challenge has finished. Congrats **Zhishan Zhou**'s team for winning the VOS track and **Jonathon Luiten**'s team for winning the VIS track! [Leaderboard]({{ site.baseurl }}/challenge/2019/leaderboard/) has been updated. Technical reports of all the teams will be uploaded soon. Thanks all for your participation!
 * **Due to recent CodaLab's malfunction, we lost all the history. Please register and submit on the new servers ([Track1](https://competitions.codalab.org/competitions/20127), [Track2](https://competitions.codalab.org/competitions/20128)).**
 * Codalab server is online now!
 * Codalab server will be ready soon. Stay tuned!
