@@ -1,0 +1,7 @@
+Our final model consists of Mask R-CNN with R101 and deformable convolution, pretrained on MS COCO. We then train the model on YouTube VIS using video frame pairs, adding a tracking branch, guided anchoring RPN, and spatial attention with key content term only ("0010"). We also delete any instance tracks with only a single frame detection during inference. 
+
+---
+
+We had tried a variety of other methods but did not get improved performance (box to mask weight transfer function, video deblurring, staged tracking, object spatial similarity for matching, group normalization + weight standardization, syncbatchnorm, etc.).
+
+Additionally, we had designed lateral temporal connections (3D convolutions on top of FPN output, w/ inspiration from SlowFast networks), which incorporates temporal context using a surrounding video clip (of 1/2 resolution) for current frame detection, but were unable to get this idea to scale from R50 to R101 models in time. We suspect this is due to the Siamese network structure and resolution difference between the context clip and current frame. It may be solved with a two-pathway approach / separate network weights, but do not have the resources to pursue this further.
