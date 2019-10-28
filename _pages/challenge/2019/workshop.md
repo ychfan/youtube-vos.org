@@ -23,6 +23,8 @@ Research Scientist at Google & Professor in Electrical Engineering and Computer 
 
 <br />
 <br />
+<br />
+<br />
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.baseurl }}/assets/people/JoonYoungLee.jpg" alt="Joon-Young Lee">
@@ -36,6 +38,9 @@ Research Scientist at Adobe Research. [[bio]]({{ site.baseurl }}/assets/workshop
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.baseurl }}/assets/people/ChenChangeLoy.jpg" alt="Chen Change Loy">
@@ -46,6 +51,8 @@ Nanyang Associate Professor with the School of Computer Science and Engineering,
 
 ### CARAFE: Content-Aware ReAssembly of FEatures
 
+<br />
+<br />
 <br />
 <br />
 
@@ -71,3 +78,13 @@ Sunday, October 27, Room 318 B-C
   * **4:00-4:20** VIS 1st place team
   * **4:20-4:40** Awarding session
   * **4:40-5:00** Panel discussion
+
+## Photos
+
+<figure class="half">
+    <a href="{{ site.baseurl }}/assets/workshop/2019/photos/p1.jpg"><img src="{{ site.baseurl }}/assets/workshop/2019/photos/p1.jpg"></a>
+    <a href="{{ site.baseurl }}/assets/workshop/2019/photos/p2.jpg"><img src="{{ site.baseurl }}/assets/workshop/2019/photos/p2.jpg"></a>
+    <a href="{{ site.baseurl }}/assets/workshop/2019/photos/p3.jpg"><img src="{{ site.baseurl }}/assets/workshop/2019/photos/p3.jpg"></a>
+    <a href="{{ site.baseurl }}/assets/workshop/2019/photos/p4.jpg"><img src="{{ site.baseurl }}/assets/workshop/2019/photos/p4.jpg"></a>
+    <a href="{{ site.baseurl }}/assets/workshop/2019/photos/p5.jpg"><img src="{{ site.baseurl }}/assets/workshop/2019/photos/p5.jpg"></a>
+</figure>
