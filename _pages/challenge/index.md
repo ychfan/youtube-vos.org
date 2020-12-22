@@ -9,8 +9,11 @@ sidebar:
   nav: "challenge"
 ---
 
+## [The 3rd Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2021/)
+Workshop in conjunction with CVPR 2021 virtual
+
 ## [The 2nd Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2019/)
-[Workshop in conjunction with ICCV2019, Seoul, Korea]()
+Workshop in conjunction with ICCV 2019, Seoul, Korea
 
 ## [The 1st Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2018/)
-[Workshop in conjunction with ECCV2018, Munich, Germany]()
+Workshop in conjunction with ECCV 2018, Munich, Germany

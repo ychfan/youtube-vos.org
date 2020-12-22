@@ -1,7 +1,7 @@
 ---
 title: "The 1st Large-scale Video Object Segmentation Challenge"
 permalink: /challenge/2018/workshop/
-excerpt: "Workshop in conjunction with ECCV2018, Munich, Germany"
+excerpt: "Workshop in conjunction with ECCV 2018, Munich, Germany"
 classes: wide
 header:
   overlay_filter: rgba(232, 74, 39, 0.8)

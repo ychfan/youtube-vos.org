@@ -9,8 +9,7 @@ layout: splash
 ---
 
 ## News
-* The 2nd Large-scale Video Object Segmentation Challenge has finished. Congrats **Zhishan Zhou**'s team for winning the VOS track and **Jonathon Luiten**'s team for winning the VIS track! [Leaderboard]({{ site.baseurl }}/challenge/2019/leaderboard/) has been updated. 
-* We will hold "[The 2nd Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2019/)" in conjunction with ICCV 2019 in Seoul, Korea. Stay tuned!
+* We will hold "[The 3rd Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2021/)" in conjunction with CVPR 2021 virtually. Stay tuned!
 
 
 ## What is YouTube-VOS

@@ -1,7 +1,7 @@
 ---
 title: "The 2nd Large-scale Video Object Segmentation Challenge"
 permalink: /challenge/2019/
-excerpt: "Workshop in conjunction with ICCV2019, Seoul, Korea"
+excerpt: "Workshop in conjunction with ICCV 2019, Seoul, Korea"
 classes: wide
 header:
   overlay_filter: rgba(232, 74, 39, 0.8)
