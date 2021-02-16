@@ -29,8 +29,8 @@ We split the YouTube-VOS dataset into 3,471 training videos, 202 validation vide
 Following the previous video object segmentation challenge Youtube-VOS, we use Region Jaccard (J) and Boundary F measure (F) as our evaluation metrics. We compute J and F, averaged over all corresponding expressions.
 
 We have set up evaluation servers on CodaLab for the convenience of evaluating new algorithms. For more details of how to submit your results, please check the following links.
-* [Evaluation server for the 2021 version.](https://competitions.codalab.org/competitions/29129)
+* [Evaluation server for the 2021 version.](https://competitions.codalab.org/competitions/29139)
 
 
 ## Data Download
-* [2021 version.](https://competitions.codalab.org/competitions/29129#participate-get_data)
+* [2021 version.](https://competitions.codalab.org/competitions/29139#participate-get_data)

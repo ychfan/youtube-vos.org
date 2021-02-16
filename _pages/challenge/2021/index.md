@@ -11,7 +11,7 @@ sidebar:
 ---
 
 ## Introduction
-Our workshop has three challenges for different video segmentation tasks including **semi-supervised video object segmentation**, **video instance segmentation** and **referring video object segmentation**. 
+Our workshop has three challenges for different video segmentation tasks including **semi-supervised video object segmentation**, **video instance segmentation** and **referring video object segmentation**.
 The first two challenges will be very similar to previous challenges we have done with improved and augmented datasets ([details]({{ site.baseurl }}/dataset/vis/)).
 The third challenge aims to segment an object referred by a given language expression in a video and requires algorithms to understand video and language jointly.
 
@@ -35,7 +35,7 @@ The third challenge aims to segment an object referred by a given language expre
 ## Submission
 * [Track 1: Video Object Segmentation](https://competitions.codalab.org/competitions/28987)
 * [Track 2: Video Instance Segmentation](https://competitions.codalab.org/competitions/28988)
-* [Track 3: Referring Video Object Segmentation](https://competitions.codalab.org/competitions/29129)
+* [Track 3: Referring Video Object Segmentation](https://competitions.codalab.org/competitions/29139)
 
 
 ## Organizers
