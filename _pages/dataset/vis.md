@@ -14,12 +14,18 @@ Video instance segmentation  extends the image instance segmentation task from t
 
 ## Dataset Statistics
 We collected the first large-scale dataset for video instance segmentation, called **YouTube-VIS**, which is based on our initial YouTube-VOS dataset. Specifically, our new dataset has the following features.
-* 2,883 high-resolution YouTube videos
+
+**The 2019 version** was used for "[the 2nd large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2019/)" at ICCV 2019.
+* 2,883 high-resolution YouTube videos, 2,238 training videos, 302 validation videos and 343 test videos
 * A category label set including 40 common objects such as person, animals and vehicles
 * 4,883 unique video instances
 * 131k high-quality manual annotations
 
-We split the YouTube-VIS dataset into 2,238 training videos, 302 validation videos and 343 test videos.
+**The 2021 version** was used for "[the 3rd large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2021/)" at CVPR 2021.
+* 3,859 high-resolution YouTube videos, 2,985 training videos, 421 validation videos and 453 test videos.
+* An improved 40-category label set by merging eagle and owl into bird, ape into monkey, deleting hands, and adding flying disc, squirrel and whale
+* 8,171 unique video instances
+* 232k high-quality manual annotations
 
 We believe YouTube-VIS can serve as a valuable benchmark for not only the video instance segmentation task, but also related tasks such as video semantic segmentation.
 
@@ -34,8 +40,10 @@ Both of the two metrics are first evaluated per category and then averaged over 
 The only modification made to the two standard metrics for our new task is the IoU computation. Because differently from image instance segmentation, each instance in a video contains a sequence of masks. Therefore, the IoU computation is carried out not only in the spatial domain, but also in the temporal domain, i.e. the sum of intersection at every single frame over the sum of union at every single frame.
 
 We have set up an evaluation server on CodaLab for the convenience of evaluating new algorithms. The submissions are ranked by Average Precision (AP). For more details of how to submit your results, please check the following link.
+* [Evaluation server for the 2021 version.](https://competitions.codalab.org/competitions/28988)
 * [Evaluation server for the 2019 version.](https://competitions.codalab.org/competitions/20128)
 
 
 ## Data Download
+* [2021 version.](https://competitions.codalab.org/competitions/28988#participate-get_data)
 * [2019 version.](https://competitions.codalab.org/competitions/20128#participate-get_data)

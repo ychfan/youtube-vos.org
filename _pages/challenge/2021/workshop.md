@@ -10,4 +10,37 @@ sidebar:
   nav: "challenge"
 ---
 
-WIP
+## Invited Speakers
+
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.baseurl }}/assets/people/LauraLealTaixe.jpg" alt="Laura Leal-Taixé">
+</figure>
+
+### Laura Leal-Taixé
+Assistant Professor at the Technical University of Munich, leading the Dynamic Vision and Learning group. [[Homepage]](https://dvl.in.tum.de/team/lealtaixe/)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.baseurl }}/assets/people/XiaolongWang.jpg" alt="Xiaolong Wang">
+</figure>
+
+### Xiaolong Wang
+Assistant professor at UC San Diego in the ECE department. [[Homepage]](https://xiaolonw.github.io/)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+## Workshop schedule
+TBA

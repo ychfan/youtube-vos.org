@@ -18,6 +18,8 @@ dataset:
         url: /dataset/vos/
       - title: "Video Instance Segmentation"
         url: /dataset/vis/
+      - title: "Referring Video Object Segmentation"
+        url: /dataset/rvos/
       - title: "Term of Use"
         url: /dataset/term/
 
