@@ -1,0 +1,19 @@
+Our method consists of three steps: image based instance segmentation,
+multiple object tracking and score reranking.
+
+For image-based instance segmentation, we use Cascade R-CNN with
+HRNetV2p-W40 as the backbone.
+External dataset for training: Coco-2017 (except the person category
+and the categories which do not in the YouTube-VOS), OVIS, Openimages
+(except the person category and the categories which do not in the
+YouTube-VOS).
+
+Multiple-scale testing: four scales, [(2000, 1200), (1400, 1000),
+(1400, 800), (1400, 600)].
+Training strategies: multiple-scale training, CosineAnnealing, etc.
+
+For multiple object tracking, we use mask iou matching, box iou
+matching and feature matching. We match the detections of the current
+frame with those of the previous five frames.
+
+For score reranking, we define the trajectory score w.r.t the trajectory length.
