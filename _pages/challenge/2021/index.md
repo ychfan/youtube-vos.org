@@ -17,7 +17,7 @@ The third challenge aims to segment an object referred by a given language expre
 
 
 ## Announcement
-* Codalab server is online now!
+* Please checkout out our [workshop schedule]({{ site.baseurl }}/challenge/2021/workshop/) and [challenge leaderboard]({{ site.baseurl }}/challenge/2021/leaderboard/)
 
 
 ## Dates
