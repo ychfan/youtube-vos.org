@@ -9,6 +9,9 @@ sidebar:
   nav: "challenge"
 ---
 
+## [The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)
+Workshop in conjunction with CVPR 2022 virtual
+
 ## [The 3rd Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2021/)
 Workshop in conjunction with CVPR 2021 virtual
 

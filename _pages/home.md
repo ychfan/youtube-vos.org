@@ -9,8 +9,7 @@ layout: splash
 ---
 
 ## News
-* "[The 3rd Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2021/)" has started on Feb. 16, 2021. Call for participants!
-* We will hold "[The 3rd Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2021/)" in conjunction with CVPR 2021 virtually. Stay tuned!
+* "[The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)" is started. Call for participants!
 
 
 ## What is YouTube-VOS

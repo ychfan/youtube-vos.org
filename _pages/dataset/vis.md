@@ -27,6 +27,11 @@ We collected the first large-scale dataset for video instance segmentation, call
 * 8,171 unique video instances
 * 232k high-quality manual annotations
 
+**The 2022 version** was used for "[the 4th large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2022/)" at CVPR 2022.
+* 71 additional long videos (3430 frames) in validation, with additional separate evaluation
+* 259 additional unique video instances, 9304 high-quality manual annotations
+* The additional long videos (L) are separately evaluated from previous videos (S), and the final mAP is the average of mAP_L and mAP_S
+
 We believe YouTube-VIS can serve as a valuable benchmark for not only the video instance segmentation task, but also related tasks such as video semantic segmentation.
 
 
@@ -40,10 +45,12 @@ Both of the two metrics are first evaluated per category and then averaged over 
 The only modification made to the two standard metrics for our new task is the IoU computation. Because differently from image instance segmentation, each instance in a video contains a sequence of masks. Therefore, the IoU computation is carried out not only in the spatial domain, but also in the temporal domain, i.e. the sum of intersection at every single frame over the sum of union at every single frame.
 
 We have set up an evaluation server on CodaLab for the convenience of evaluating new algorithms. The submissions are ranked by Average Precision (AP). For more details of how to submit your results, please check the following link.
+* [Evaluation server for the 2022 version.](https://codalab.lisn.upsaclay.fr/competitions/3410)
 * [Evaluation server for the 2021 version.](https://competitions.codalab.org/competitions/28988)
 * [Evaluation server for the 2019 version.](https://competitions.codalab.org/competitions/20128)
 
 
 ## Data Download
+* [2022 version.](https://codalab.lisn.upsaclay.fr/competitions/3410#participate-get_data)
 * [2021 version.](https://competitions.codalab.org/competitions/28988#participate-get_data)
 * [2019 version.](https://competitions.codalab.org/competitions/20128#participate-get_data)
