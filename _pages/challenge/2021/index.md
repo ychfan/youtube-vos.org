@@ -17,7 +17,7 @@ The third challenge aims to segment an object referred by a given language expre
 
 
 ## Announcement
-* Codalab server is online now!
+* Please checkout out our [workshop schedule]({{ site.baseurl }}/challenge/2021/workshop/) and [challenge leaderboard]({{ site.baseurl }}/challenge/2021/leaderboard/)
 
 
 ## Dates
@@ -44,7 +44,7 @@ The third challenge aims to segment an object referred by a given language expre
 <img src="{{ site.baseurl }}/assets/people/NingXu.jpg" width="500" alt="Ning Xu" />|<img src="{{ site.baseurl }}/assets/people/LinjieYang.jpg" width="500" alt="Linjie Yang" />|<img src="{{ site.baseurl }}/assets/people/YuchenFan.jpg" width="500" alt="Yuchen Fan" />|<img src="{{ site.baseurl }}/assets/people/YangFu.jpg" width="500" alt="Yang Fu" />|<img src="{{ site.baseurl }}/assets/people/WeiyaoLin.jpg" width="500" alt="Weiyao Lin" />
 **[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Adobe Research | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance AI Lab | **[Yuchen Fan](https://ychfan.github.io/)**<br />UIUC | **Yang Fu**<br />UIUC | **[Weiyao Lin](https://weiyaolin.github.io/)**<br />SJTU, China
 <img src="{{ site.baseurl }}/assets/people/JianchaoYang.jpg" width="500" alt="Jianchao Yang" />|<img src="{{ site.baseurl }}/assets/people/HonghuiShi.jpg" width="500" alt="Honghui Shi" />|<img src="{{ site.baseurl }}/assets/people/JoonYoungLee.jpg" width="500" alt="Joon-Young Lee" />|<img src="{{ site.baseurl }}/assets/people/SeongukSeo.jpg" width="500" alt="Seonguk Seo" />
-**Jianchao Yang**<br />ByteDance AI Lab | **[Honghui Shi](https://www.honghuishi.com/)**<br />UIUC | **[Joon-Young Lee](https://joonyoung-cv.github.io/)**<br />Adobe Research | **[Seonguk Seo](https://seoseong.uk/)**<br />SNU, Korea
+**Jianchao Yang**<br />ByteDance AI Lab | **[Humphrey Shi](https://www.humphreyshi.com/)**<br />UIUC | **[Joon-Young Lee](https://joonyoung-cv.github.io/)**<br />Adobe Research | **[Seonguk Seo](https://seoseong.uk/)**<br />SNU, Korea
 
 
 ## Contact

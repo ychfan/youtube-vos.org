@@ -23,6 +23,7 @@ Video Object Segmentation
 * [2018 version.](https://competitions.codalab.org/competitions/19544#participate-get-data)
 
 Video Instance Segmentation
+* [2022 version.](https://codalab.lisn.upsaclay.fr/competitions/3410#participate-get_data)
 * [2021 version.](https://competitions.codalab.org/competitions/28988#participate-get_data)
 * [2019 version.](https://competitions.codalab.org/competitions/20128#participate-get_data)
 
