@@ -27,7 +27,7 @@ sidebar:
 | Team Name | Team Members | Organization | Technical Report |
 |:-|:-|:-|:-|
 | Thursday_Group | Rui Sun [1]\*, Naisong Luo [1]\*, Yuan Wang [1]\*, Yuwen Pan [1], Huayu Mai [1], Zhe Zhang [2], Tianzhu Zhang [1]† (* Equal Contribution. † Corresponding Author.) | [1] University of Science and Technology of China, [2] Lunar Exploration and Space Engineering Center of CNSA. | [PDF]() |
-| ux | Yuanyou Xu [1], Zongxin Yang [1,2], Yi Yang [1], Fei Wu [1] | [1] Collaborative Innovation Center of Artificial Intelligence (CCAI), Zhejiang University, [2] Baidu Research | [PDF]() |
+| ux | Yuanyou Xu [1] | [1] Collaborative Innovation Center of Artificial Intelligence (CCAI), Zhejiang University | [PDF]() |
 | zjmagicworld | Jian Zhang, Wenhua Han, Guowei Chen, Yuying Hao, Jian Wang, Yi Liu | Baidu Inc. | [PDF]() |
 | whc | Haochen Wang [1], Yongtuo Liu [1], Yan Gao [2], Xiaolong Jiang [3], Efstratios Gavves [1] | [1] University of Amsterdam, [2] The Institute of Computing Technology of the Chinese Academy of Sciences, [3] Beihang, University | [PDF]() |
 | gogo | Wangwang Yang*, Jinming Su*, Yiting Duan, Tingyi Guo and Junfeng Luo. (* Equal contribution) | Vision Intelligence Department (VID), Meituan | [PDF]() |
