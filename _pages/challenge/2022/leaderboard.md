@@ -21,7 +21,6 @@ sidebar:
 | whc          | 0.862 (4) | 0.840 (5)  | 0.818 (2) | 0.894 (5)  | 0.896 (5) | 4       |
 | gogo         | 0.861 (5) | 0.847 (2)  | 0.808 (7) | 0.901 (3)  | 0.890 (6) | 5       |
 | sz           | 0.857 (6) | 0.831 (6)  | 0.815 (5) | 0.886 (7)  | 0.896 (3) | 6       |
-| PinxueGuo    | 0.856 (7) | 0.832 (7)  | 0.812 (6) | 0.887 (6)  | 0.892 (7) | 7       |
 
 ### Team Information
 
@@ -33,7 +32,6 @@ sidebar:
 | whc | Haochen Wang [1], Yongtuo Liu [1], Yan Gao [2], Xiaolong Jiang [3], Efstratios Gavves [1] | [1] University of Amsterdam, [2] The Institute of Computing Technology of the Chinese Academy of Sciences, [3] Beihang, University | [PDF]() |
 | gogo | Wangwang Yang*, Jinming Su*, Yiting Duan, Tingyi Guo and Junfeng Luo. (* Equal contribution) | Vision Intelligence Department (VID), Meituan | [PDF]() |
 | sz | Hui Zhou[1], Yong Liu[1,2], Jisheng Dang[3], Huicheng Zheng[3], Qiang Zhou[2], Shanglin Li [1,2], Yixing Zhu[2], Yansong Tang[1], Yujiu Yang[1] | [1] Tsinghua Shenzhen International Graduate School, Tsinghua University,[2] ByteDance Inc. [3] School of Computer Science and Engineering, Sun Yat-sen University. | [PDF]() |
-| PinxueGuo | Shilin Yan [1], Lingyi Hong [1], Xiaohao Xu [2], Jisheng Dang [3], Pinxue Guo [1], Jinming Lai [3], Wei Zhang [1], Wenqiang Zhang [1] | [1] School of Computer Science, Fudan University, China, [2] Huazhong University of Science and Technology, China, [3] School of Computer Science and Engineering, Sun Yat-sen University, China | [PDF]() |
 
 
 ## Track 2: Video Instance Segmentation
@@ -73,6 +71,6 @@ sidebar:
 
 | Team Name | Team Members | Organization | Technical Report |
 |:-|:-|:-|:-|
-| TAL-AI | Zhiwei Hu*. Bo Chen*. Yuan Gao, Zhilong Ji, Jinfeng Bai | Tomorrow Advancing Life (TAL) Education Group | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_1_Liang.pdf) |
-| jiliushi | Leilei Cao [1,2], Zhuang Li [1,3], Bo Yan [1],Feng Zhang [1], Fengliang Qi [1], Yuchen Hu [1], Hongbin Wang [1] | [1] Ant Group, [2] Northwestern Polytechnical University, [3] Tongji University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_2_Ding.pdf) |
+| TAL-AI | Zhiwei Hu*. Bo Chen*. Yuan Gao, Zhilong Ji, Jinfeng Bai | Tomorrow Advancing Life (TAL) Education Group | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_1_Hu.pdf) |
+| jiliushi | Leilei Cao [1,2], Zhuang Li [1,3], Bo Yan [1],Feng Zhang [1], Fengliang Qi [1], Yuchen Hu [1], Hongbin Wang [1] | [1] Ant Group, [2] Northwestern Polytechnical University, [3] Tongji University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_2_Cao.pdf) |
 | PENG | Peng Liu, Quanlong Zheng, Zhengxia Zou and Yandong Guo | OPPO Research | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_3_Liu.pdf) |
