@@ -7,19 +7,19 @@ header:
 feature_row:
   - image_path: /assets/people/NingXu.jpg
     alt: "Ning Xu"
-    excerpt: "**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Adobe Research"
+    excerpt: "**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Apple Inc."
   - image_path: /assets/people/LinjieYang.jpg
     alt: "Linjie Yang"
-    excerpt: "**[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance AI Lab"
+    excerpt: "**[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance Inc."
   - image_path: /assets/people/JianchaoYang.jpg
     alt: "Jianchao Yang"
-    excerpt: "**Jianchao Yang**<br />ByteDance AI Lab"
+    excerpt: "**Jianchao Yang**<br />ByteDance Inc."
   - image_path: /assets/people/DingchengYue.jpg
     alt: "Dingcheng Yue"
     excerpt: "**Dingcheng Yue**<br />UIUC"
   - image_path: /assets/people/YuchenFan.jpg
     alt: "Yuchen Fan"
-    excerpt: "**Yuchen Fan**<br />UIUC"
+    excerpt: "**Yuchen Fan**<br />Meta Inc."
   - image_path: /assets/people/YuchenLiang.jpg
     alt: "Yuchen Liang"
     excerpt: "**Yuchen Liang**<br />UIUC"

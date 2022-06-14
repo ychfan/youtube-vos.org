@@ -9,8 +9,8 @@ layout: splash
 ---
 
 ## News
-* Our workshop in conjunction with CVPR 2022 will be on Jun 19, 8 - 12 AM CT. [Schedule]({{ site.baseurl }}/challenge/2022/leaderboard/) 
-* "[The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)" has finished. Congrats to all top teams! 
+* Our workshop in conjunction with CVPR 2022 will be on Jun 19, 8 - 12 AM CT. [Workshop schedule]({{ site.baseurl }}/challenge/2022/workshop/) 
+* "[The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)" has finished. Congrats to all top teams! [Leaderboard]({{ site.baseurl }}/challenge/2022/leaderboard/)
 
 
 ## What is YouTube-VOS

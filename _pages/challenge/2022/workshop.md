@@ -28,7 +28,7 @@ Heng is currently a research lead at ByteDance. His research interests range fro
 <br />
 
 <figure style="width: 150px" class="align-left">
-  <img src="{{ site.baseurl }}/assets/people/Sifei Liu.jpg" alt="Sifei Liu">
+  <img src="{{ site.baseurl }}/assets/people/SifeiLiu.jpg" alt="Sifei Liu">
 </figure>
 
 ### Sifei Liu
@@ -52,21 +52,21 @@ June 19, 2022, 8-12 AM CT @ [Zoom]()
 | 8:00 | **Opening remarks** | Host |
 | 8:10 | **Invited talk 1**: Towards open-world instance segmentation | Heng Wang |
 | 8:40 | **Break** | |
-| 8:50 | **VOS track brief**: | Host |
-| 9:00 | **VOS 3rd winner**:  |  |
-| 9:10 | **VOS 2nd winner**:  |  |
-| 9:20 | **VOS 1st winner**:  | |
+| 8:50 | **VOS track brief** | Host |
+| 9:00 | **VOS 3rd winner**  |  |
+| 9:10 | **VOS 2nd winner**  |  |
+| 9:20 | **VOS 1st winner**  | |
 | 9:30 | **VOS winners Q&A** | |
 | 9:40 | **VIS track brief** | Host |
-| 9:50 | **VIS 3rd winner**:  |  |
-| 10:00 | **VIS 2nd winner**: |  |
-| 10:10 | **VIS 1st winner**:  | |
+| 9:50 | **VIS 3rd winner**  |  |
+| 10:00 | **VIS 2nd winner** |  |
+| 10:10 | **VIS 1st winner**  | |
 | 10:20 | **VIS winners Q&A** | |
 | 10:30 | **Break** | |
 | 10:40 | **Invited talk 2**: Learning Semantic and Geometric Representations from Vdeos with Limited Supervision  | Sifei Liu |
 | 11:10 | **RVOS track brief** | Host |
-| 11:20 | **RVOS 3rd winner**: | | 
-| 11:30 | **RVOS 2nd winner**: | | 
-| 11:40 | **RVOS 1st winner**: | | 
+| 11:20 | **RVOS 3rd winner** | | 
+| 11:30 | **RVOS 2nd winner** | | 
+| 11:40 | **RVOS 1st winner** | | 
 | 11:50 | **RVOS winners Q&A**  | |
 | 12:00 | **Awarding and closing** | Host |
