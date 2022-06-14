@@ -65,7 +65,7 @@ sidebar:
 | TAL-AI       | 0.641 (1) | 0.622 (1) | 0.661 (1) | 1 |
 | jiliushi     | 0.617 (2) | 0.598 (3) | 0.636 (2) | 2 |
 | PENG         | 0.608 (3) | 0.589 (2) | 0.627 (3) | 3 |
-| nero         | 0.580 (4) | 0.561 (4) | 0.599 (4) | 4 |
+| ds-hothot    | 0.596 (4) | 0.579 (4) | 0.612 (4) | 4 |
 
 ### Team Information
 
@@ -74,3 +74,4 @@ sidebar:
 | TAL-AI | Zhiwei Hu*. Bo Chen*. Yuan Gao, Zhilong Ji, Jinfeng Bai | Tomorrow Advancing Life (TAL) Education Group | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_1_Hu.pdf) |
 | jiliushi | Leilei Cao [1,2], Zhuang Li [1,3], Bo Yan [1],Feng Zhang [1], Fengliang Qi [1], Yuchen Hu [1], Hongbin Wang [1] | [1] Ant Group, [2] Northwestern Polytechnical University, [3] Tongji University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_2_Cao.pdf) |
 | PENG | Peng Liu, Quanlong Zheng, Zhengxia Zou and Yandong Guo | OPPO Research | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_3_Liu.pdf) |
+| ds-hothot | Mingqi Gao [1,2], Jungong Han [1,3], Feng Zheng [2], James J.Q. Yu [2], Giovanni Montana [1] | [1] University of Warwick, [2] Southern University of Science and Technology, [3] Aberystwyth University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_4_Gao.pdf) |
