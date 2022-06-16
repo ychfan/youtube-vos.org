@@ -45,25 +45,25 @@ Sifei is currently a research scientist at NVIDIA Research, Learning and Percept
 
 
 ## Workshop schedule
-June 19, 2022, 8-12 AM CT @ [Zoom]()
+June 19, 2022, 8-12 AM CT @ [Zoom](https://us06web.zoom.us/j/83721192253?pwd=WXhlQjFiSjhFRmJkTzUrMGxoZXN6QT09)
 
 | Time (CT)    | Event     | Speaker    |
 |:-------------|:----------|:-----------|
 | 8:00 | **Opening remarks** | Host |
-| 8:10 | **Invited talk 1**: Towards open-world instance segmentation | Heng Wang |
-| 8:40 | **Break** | |
-| 8:50 | **VOS track brief** | Host |
-| 9:00 | **VOS 3rd winner**  |  |
-| 9:10 | **VOS 2nd winner**  |  |
-| 9:20 | **VOS 1st winner**  | |
-| 9:30 | **VOS winners Q&A** | |
-| 9:40 | **VIS track brief** | Host |
-| 9:50 | **VIS 3rd winner**  |  |
-| 10:00 | **VIS 2nd winner** |  |
-| 10:10 | **VIS 1st winner**  | |
-| 10:20 | **VIS winners Q&A** | |
-| 10:30 | **Break** | |
-| 10:40 | **Invited talk 2**: Learning Semantic and Geometric Representations from Vdeos with Limited Supervision  | Sifei Liu |
+| 8:10 | **VOS track brief** | Host |
+| 8:20 | **VOS 3rd winner**  |  |
+| 8:30 | **VOS 2nd winner**  |  |
+| 8:40 | **VOS 1st winner**  | |
+| 8:50 | **VOS winners Q&A** | |
+| 9:00 | **VIS track brief** | Host |
+| 9:10 | **VIS 3rd winner**  |  |
+| 9:20 | **VIS 2nd winner** |  |
+| 9:30 | **VIS 1st winner**  | |
+| 9:40 | **VIS winners Q&A** | |
+| 9:50 | **Break** | |
+| 10:00 | **Invited talk 1**: Towards open-world instance segmentation | Heng Wang |
+| 10:30 | **Invited talk 2**: Learning Semantic and Geometric Representations from Vdeos with Limited Supervision  | Sifei Liu |
+| 11:00 | **Break** | |
 | 11:10 | **RVOS track brief** | Host |
 | 11:20 | **RVOS 3rd winner** | | 
 | 11:30 | **RVOS 2nd winner** | | 

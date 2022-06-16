@@ -26,11 +26,11 @@ sidebar:
 
 | Team Name | Team Members | Organization | Technical Report |
 |:-|:-|:-|:-|
-| Thursday_Group | Rui Sun [1]\*, Naisong Luo [1]\*, Yuan Wang [1]\*, Yuwen Pan [1], Huayu Mai [1], Zhe Zhang [2], Tianzhu Zhang [1]† (* Equal Contribution. † Corresponding Author.) | [1] University of Science and Technology of China, [2] Lunar Exploration and Space Engineering Center of CNSA. | [PDF]() |
-| ux | Yuanyou Xu [1] | [1] Collaborative Innovation Center of Artificial Intelligence (CCAI), Zhejiang University | [PDF]() |
+| Thursday_Group | Rui Sun [1]\*, Naisong Luo [1]\*, Yuan Wang [1]\*, Yuwen Pan [1], Huayu Mai [1], Zhe Zhang [2], Tianzhu Zhang [1]† (\* Equal Contribution. † Corresponding Author.) | [1] University of Science and Technology of China, [2] Lunar Exploration and Space Engineering Center of CNSA. | [PDF]() |
+| ux | Yuanyou Xu  |  | [PDF]() |
 | zjmagicworld | Jian Zhang, Wenhua Han, Guowei Chen, Yuying Hao, Jian Wang, Yi Liu | Baidu Inc. | [PDF]() |
 | whc | Haochen Wang [1], Yongtuo Liu [1], Yan Gao [2], Xiaolong Jiang [3], Efstratios Gavves [1] | [1] University of Amsterdam, [2] The Institute of Computing Technology of the Chinese Academy of Sciences, [3] Beihang, University | [PDF]() |
-| gogo | Wangwang Yang*, Jinming Su*, Yiting Duan, Tingyi Guo and Junfeng Luo. (* Equal contribution) | Vision Intelligence Department (VID), Meituan | [PDF]() |
+| gogo | Wangwang Yang\*, Jinming Su\*, Yiting Duan, Tingyi Guo and Junfeng Luo. (\* Equal contribution) | Vision Intelligence Department (VID), Meituan | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VOS_5th.pdf) |
 | sz | Hui Zhou[1], Yong Liu[1,2], Jisheng Dang[3], Huicheng Zheng[3], Qiang Zhou[2], Shanglin Li [1,2], Yixing Zhu[2], Yansong Tang[1], Yujiu Yang[1] | [1] Tsinghua Shenzhen International Graduate School, Tsinghua University,[2] ByteDance Inc. [3] School of Computer Science and Engineering, Sun Yat-sen University. | [PDF]() |
 
 
@@ -49,8 +49,8 @@ sidebar:
 
 | Team Name | Team Members | Organization | Technical Report |
 |:-|:-|:-|:-|
-| ByteVIS | Junfeng Wu [1], Yi Jiang [2], Qihao Liu [3], Zehuan Yuan [2], Xiang Bai [1], Song Bai [2] | [1] Huazhong University of Science and Technology, [2] Bytedance, [3] Johns Hopkins University | [PDF]() |
-| peiyuanc1989 | Quanzeng You, Andre Abrantes, Peng Chu, Jiang Wang, Zicheng Li | Microsoft | [PDF]() |
+| ByteVIS | Junfeng Wu [1], Yi Jiang [2], Qihao Liu [3], Zehuan Yuan [2], Xiang Bai [1], Song Bai [2] | [1] Huazhong University of Science and Technology, [2] Bytedance, [3] Johns Hopkins University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VIS_1st.pdf) |
+| peiyuanc1989 | Quanzeng You, Andre Abrantes, Peng Chu, Jiang Wang, Zicheng Li | Microsoft | [PDF](https://arxiv.org/abs/2206.07011) |
 | mahogany | Sukjun Hwang, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim | [1] Yonsei University, [2] Adobe Research | [PDF]() |
 | Ach | Zhuang Li [1,2], Leilei Cao [2], Hongbin Wang [2] | [1] Tongji University, [2] Ant group | [PDF]() |
 | zhangtao-whu | Tao Zhang [1], Xingye Tian [2] | [1] WuHan University, [2] KuaiShou-ytech | [PDF]() |
@@ -71,7 +71,7 @@ sidebar:
 
 | Team Name | Team Members | Organization | Technical Report |
 |:-|:-|:-|:-|
-| TAL-AI | Zhiwei Hu*. Bo Chen*. Yuan Gao, Zhilong Ji, Jinfeng Bai | Tomorrow Advancing Life (TAL) Education Group | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_1_Hu.pdf) |
+| TAL-AI | Zhiwei Hu\*. Bo Chen\*. Yuan Gao, Zhilong Ji, Jinfeng Bai | Tomorrow Advancing Life (TAL) Education Group | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_1_Hu.pdf) |
 | jiliushi | Leilei Cao [1,2], Zhuang Li [1,3], Bo Yan [1],Feng Zhang [1], Fengliang Qi [1], Yuchen Hu [1], Hongbin Wang [1] | [1] Ant Group, [2] Northwestern Polytechnical University, [3] Tongji University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_2_Cao.pdf) |
 | PENG | Peng Liu, Quanlong Zheng, Zhengxia Zou and Yandong Guo | OPPO Research | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_3_Liu.pdf) |
 | ds-hothot | Mingqi Gao [1,2], Jungong Han [1,3], Feng Zheng [2], James J.Q. Yu [2], Giovanni Montana [1] | [1] University of Warwick, [2] Southern University of Science and Technology, [3] Aberystwyth University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/RVOS_4_Gao.pdf) |
