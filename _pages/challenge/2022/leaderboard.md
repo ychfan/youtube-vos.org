@@ -31,7 +31,7 @@ sidebar:
 | zjmagicworld | Jian Zhang, Wenhua Han, Guowei Chen, Yuying Hao, Jian Wang, Yi Liu | Baidu Inc. | [PDF]() |
 | whc | Haochen Wang [1], Yongtuo Liu [1], Yan Gao [2], Xiaolong Jiang [3], Efstratios Gavves [1] | [1] University of Amsterdam, [2] The Institute of Computing Technology of the Chinese Academy of Sciences, [3] Beihang, University | [PDF]() |
 | gogo | Wangwang Yang\*, Jinming Su\*, Yiting Duan, Tingyi Guo and Junfeng Luo. (\* Equal contribution) | Vision Intelligence Department (VID), Meituan | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VOS_5th.pdf) |
-| sz | Hui Zhou[1], Yong Liu[1,2], Jisheng Dang[3], Huicheng Zheng[3], Qiang Zhou[2], Shanglin Li [1,2], Yixing Zhu[2], Yansong Tang[1], Yujiu Yang[1] | [1] Tsinghua Shenzhen International Graduate School, Tsinghua University,[2] ByteDance Inc. [3] School of Computer Science and Engineering, Sun Yat-sen University. | [PDF]() |
+| sz | Hui Zhou[1], Yong Liu[1,2], Jisheng Dang[3], Huicheng Zheng[3], Qiang Zhou[2], Shanglin Li [1,2], Yixing Zhu[2], Yansong Tang[1], Yujiu Yang[1] | [1] Tsinghua Shenzhen International Graduate School, Tsinghua University,[2] ByteDance Inc. [3] School of Computer Science and Engineering, Sun Yat-sen University. | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VOS_6th.pdf) |
 
 
 ## Track 2: Video Instance Segmentation
@@ -51,7 +51,7 @@ sidebar:
 |:-|:-|:-|:-|
 | ByteVIS | Junfeng Wu [1], Yi Jiang [2], Qihao Liu [3], Zehuan Yuan [2], Xiang Bai [1], Song Bai [2] | [1] Huazhong University of Science and Technology, [2] Bytedance, [3] Johns Hopkins University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VIS_1st.pdf) |
 | peiyuanc1989 | Quanzeng You, Andre Abrantes, Peng Chu, Jiang Wang, Zicheng Li | Microsoft | [PDF](https://arxiv.org/abs/2206.07011) |
-| mahogany | Sukjun Hwang, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim | [1] Yonsei University, [2] Adobe Research | [PDF]() |
+| mahogany | Sukjun Hwang, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim | [1] Yonsei University, [2] Adobe Research | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VIS_3rd.pdf) |
 | Ach | Zhuang Li [1,2], Leilei Cao [2], Hongbin Wang [2] | [1] Tongji University, [2] Ant group | [PDF]() |
 | zhangtao-whu | Tao Zhang [1], Xingye Tian [2] | [1] WuHan University, [2] KuaiShou-ytech | [PDF]() |
 
