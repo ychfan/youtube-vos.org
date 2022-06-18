@@ -28,7 +28,7 @@ We collected the first large-scale dataset for video instance segmentation, call
 * 232k high-quality manual annotations
 
 **The 2022 version** was used for "[the 4th large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2022/)" at CVPR 2022.
-* 71 additional long videos (3430 frames) in validation, with additional separate evaluation
+* 71 additional long videos in validation and 50 additional long videos in test set, with additional separate evaluation
 * 259 additional unique video instances, 9304 high-quality manual annotations
 * The additional long videos (L) are separately evaluated from previous videos (S), and the final mAP is the average of mAP_L and mAP_S
 
