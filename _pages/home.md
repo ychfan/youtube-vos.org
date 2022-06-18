@@ -9,16 +9,18 @@ layout: splash
 ---
 
 ## News
-* "[The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)" is started. Call for participants!
+* Our workshop in conjunction with CVPR 2022 will be on Jun 19, 8 - 12 AM CT. [Workshop schedule]({{ site.baseurl }}/challenge/2022/workshop/) 
+* "[The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)" has finished. Congrats to all top teams! [Leaderboard]({{ site.baseurl }}/challenge/2022/leaderboard/)
 
 
 ## What is YouTube-VOS
 YouTube-VOS is the first large-scale benchmark that supports multiple video object segmentation tasks. 
 * Semi-supervised Video Object Segmentation
 * Video Instance Segmentation
+* Referring Video Object Segmentation
 
 It also has the following features. 
-* 4000+ high-resolution YouTube videos
+* 5000+ high-resolution YouTube videos
 * 90+ semantic categories
 * 7800+ unique objects
 * 190k+ high-quality manual annotations
@@ -28,12 +30,14 @@ It also has the following features.
 ## Research paper
 Please cite the following papers if you find our dataset is useful.
 ### Semi-supervised video object segmentation
-* [Download the paper that describes the initial YouTube-VOS dataset.](https://arxiv.org/abs/1809.03327)
-* [Download the paper that describes a RNN method trained on YouTube-VOS.](https://arxiv.org/abs/1809.00461)
+* [YouTube-VOS: A Large-Scale Video Object Segmentation Benchmark. arXiv 2018](https://arxiv.org/abs/1809.03327)
+* [YouTube-VOS: Sequence-to-Sequence Video Object Segmentation. ECCV 2018](https://arxiv.org/abs/1809.00461)
 
 ### Video instance segmentation
-* [Download the paper that describes the video instance segmentation task, dataset and baselines.](https://arxiv.org/abs/1905.04804)
+* [Video Instance Segmentation. ICCV 2019](https://arxiv.org/abs/1905.04804)
 
+### Referring Video Object Segmentation
+* [URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark. ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf)
 
 ## Dataset examples
 
