@@ -9,7 +9,7 @@ layout: splash
 ---
 
 ## News
-* Our workshop in conjunction with CVPR 2022 will be on Jun 19, 8 - 12 AM CT. [Workshop schedule]({{ site.baseurl }}/challenge/2022/workshop/) 
+* The video recording of our workshop in conjunction with CVPR 2022 will be released 3 months after the conference. All [tech reports]({{ site.baseurl }}/challenge/2022/leaderboard/) have been updated.
 * "[The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)" has finished. Congrats to all top teams! [Leaderboard]({{ site.baseurl }}/challenge/2022/leaderboard/)
 
 
