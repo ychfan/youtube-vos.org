@@ -29,7 +29,7 @@ sidebar:
 | Thursday_Group | Rui Sun [1]\*, Naisong Luo [1]\*, Yuan Wang [1]\*, Yuwen Pan [1], Huayu Mai [1], Zhe Zhang [2], Tianzhu Zhang [1]† (\* Equal Contribution. † Corresponding Author.) | [1] University of Science and Technology of China, [2] Lunar Exploration and Space Engineering Center of CNSA. | [PDF]( {{ site.baseurl }}/assets/challenge/2022/reports/VOS_1st.pdf) |
 | ux | Yuanyou Xu  |  | [PDF]( {{ site.baseurl }}/assets/challenge/2022/reports/VOS_2nd.pdf) |
 | zjmagicworld | Jian Zhang, Wenhua Han, Guowei Chen, Yuying Hao, Jian Wang, Yi Liu | Baidu Inc. | [PDF]() |
-| whc | Haochen Wang [1], Yongtuo Liu [1], Yan Gao [2], Xiaolong Jiang [3], Efstratios Gavves [1] | [1] University of Amsterdam, [2] The Institute of Computing Technology of the Chinese Academy of Sciences, [3] Beihang, University | [PDF]() |
+| whc | Haochen Wang [1], Yongtuo Liu [1], Yan Gao [2], Xiaolong Jiang [3], Efstratios Gavves [1] | [1] University of Amsterdam, [2] The Institute of Computing Technology of the Chinese Academy of Sciences, [3] Beihang, University | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VOS_4th.pdf) |
 | gogo | Wangwang Yang\*, Jinming Su\*, Yiting Duan, Tingyi Guo and Junfeng Luo. (\* Equal contribution) | Vision Intelligence Department (VID), Meituan | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VOS_5th.pdf) |
 | sz | Hui Zhou[1], Yong Liu[1,2], Jisheng Dang[3], Huicheng Zheng[3], Qiang Zhou[2], Shanglin Li [1,2], Yixing Zhu[2], Yansong Tang[1], Yujiu Yang[1] | [1] Tsinghua Shenzhen International Graduate School, Tsinghua University,[2] ByteDance Inc. [3] School of Computer Science and Engineering, Sun Yat-sen University. | [PDF]({{ site.baseurl }}/assets/challenge/2022/reports/VOS_6th.pdf) |
 
