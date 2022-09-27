@@ -45,12 +45,12 @@ Both of the two metrics are first evaluated per category and then averaged over 
 The only modification made to the two standard metrics for our new task is the IoU computation. Because differently from image instance segmentation, each instance in a video contains a sequence of masks. Therefore, the IoU computation is carried out not only in the spatial domain, but also in the temporal domain, i.e. the sum of intersection at every single frame over the sum of union at every single frame.
 
 We have set up an evaluation server on CodaLab for the convenience of evaluating new algorithms. The submissions are ranked by Average Precision (AP). For more details of how to submit your results, please check the following link.
-* [Evaluation server for the 2022 version.](https://codalab.lisn.upsaclay.fr/competitions/3410)
-* [Evaluation server for the 2021 version.](https://competitions.codalab.org/competitions/28988)
-* [Evaluation server for the 2019 version.](https://competitions.codalab.org/competitions/20128)
+* [Evaluation server for the 2022 version](https://codalab.lisn.upsaclay.fr/competitions/3410).
+* ~~[Evaluation server for the 2021 version](https://competitions.codalab.org/competitions/28988)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/7680).
+* ~~[Evaluation server for the 2019 version](https://competitions.codalab.org/competitions/20128)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/7682).
 
 
 ## Data Download
-* [2022 version.](https://codalab.lisn.upsaclay.fr/competitions/3410#participate-get_data)
-* [2021 version.](https://competitions.codalab.org/competitions/28988#participate-get_data)
-* [2019 version.](https://competitions.codalab.org/competitions/20128#participate-get_data)
+* [2022 version](https://codalab.lisn.upsaclay.fr/competitions/3410#participate-get_data).
+* ~~[2021 version](https://competitions.codalab.org/competitions/28988#participate-get_data)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/7680#participate-get_data).
+* ~~[2019 version](https://competitions.codalab.org/competitions/20128#participate-get_data)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/7682#participate-get_data).

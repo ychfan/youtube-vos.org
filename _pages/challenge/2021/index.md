@@ -34,7 +34,7 @@ The third challenge aims to segment an object referred by a given language expre
 
 ## Submission
 * [Track 1: Video Object Segmentation](https://competitions.codalab.org/competitions/28987)
-* [Track 2: Video Instance Segmentation](https://competitions.codalab.org/competitions/28988)
+* ~~[Track 2: Video Instance Segmentation](https://competitions.codalab.org/competitions/28988)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/7680)
 * [Track 3: Referring Video Object Segmentation](https://competitions.codalab.org/competitions/29139)
 
 

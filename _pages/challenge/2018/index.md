@@ -25,10 +25,7 @@ Our workshop is co-located with another video segmentation workshop "[The Third 
 
 
 ## Announcement
-* The test server is now ready at [CodaLab](https://competitions.codalab.org/competitions/19544).
-* The top three teams will be awarded with prizes.
-* The training dataset is available. Please checkout [download](https://competitions.codalab.org/competitions/19544#participate-get-data) page.
-* The test server will be available soon.
+* ~~[CodaLab](https://competitions.codalab.org/competitions/19544)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/7685)
 
 
 ## Dates
