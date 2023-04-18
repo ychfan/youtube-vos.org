@@ -6,7 +6,7 @@ main:
   - title: "Dataset"
     url: /dataset/
   - title: "Challenge"
-    url: /challenge/2022/
+    url: /challenge/2023/
 
 
 dataset:
@@ -24,6 +24,14 @@ dataset:
         url: /dataset/term/
 
 challenge:
+  - title: "2023"
+    children:
+      - title: Challenge
+        url: /challenge/2023/
+      - title: Workshop
+        url: /challenge/2023/workshop/
+      - title: Leaderboard
+        url: /challenge/2023/leaderboard/
   - title: "2022"
     children:
       - title: Challenge

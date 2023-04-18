@@ -9,6 +9,7 @@ layout: splash
 ---
 
 ## News
+* "[The 5th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2023/)" will be held  in conjunction with [ICCV 2023](https://iccv2023.thecvf.com/) in Paris, France!
 * We have a joint challenge track with [Multiple Object Tracking and Segmentation in Complex Environments Workshop](https://motcomplex.github.io/) in ECCV 2022 on long video VIS. Call for participation!
 * Due to maintainance issues of the old Codalab website, we have migrated the VOS and VIS evaluation servers of the 2019 challenge to the new codalab site. [Details]({{ site.baseurl }}/challenge/2019/)
 * The video recording of our workshop in conjunction with CVPR 2022 will be released 3 months after the conference. All [tech reports]({{ site.baseurl }}/challenge/2022/leaderboard/) have been updated.

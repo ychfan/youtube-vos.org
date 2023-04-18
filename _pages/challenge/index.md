@@ -9,6 +9,9 @@ sidebar:
   nav: "challenge"
 ---
 
+## [The 5th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2023/)
+Workshop in conjunction with ICCV 2023 Paris, France
+
 ## [The 4th Large-scale Video Object Segmentation Challenge]({{ site.baseurl }}/challenge/2022/)
 Workshop in conjunction with CVPR 2022 virtual
 
