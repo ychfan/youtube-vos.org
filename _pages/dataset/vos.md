@@ -21,11 +21,39 @@ Our dataset for video object segmentation was first released in 2018 in conjunct
 * Validation: 474 videos,  65 training (seen) categories, 26 unseen categories and 894 unique object instances.
 * Test: 508 videos, 65 training (seen) categories, 29 unseen categories and 915 unique object instances.
 
+Please cite this version using the following bibtex:
+```
+@article{vos2018,
+  author       = {Ning Xu and
+                  Linjie Yang and
+                  Yuchen Fan and
+                  Dingcheng Yue and
+                  Yuchen Liang and
+                  Jianchao Yang and
+                  Thomas S. Huang},
+  title        = {YouTube-VOS: {A} Large-Scale Video Object Segmentation Benchmark},
+  journal      = {CoRR},
+  volume       = {abs/1809.03327},
+  year         = {2018},
+  url          = {http://arxiv.org/abs/1809.03327},
+}
+```
 **The 2019 version** will be used for "[the 2nd large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2019/)" at ICCV 2019. It augments the 2018 version with more videos and annotations.
 * Training: 3471 videos, 65 categories and 6459 unique object instances.
 * Validation: 507 videos, 65 training categories, 26 unseen categories and 1063 unique object instances. 
 * Test: 541 videos, 65 training categories, 29 unseen categories and 1092 unique object instances.
 
+Please cite this version using the following bibtex:
+
+```
+@misc{vos2019,
+  author       = "Linjie Yang and Yuchen Fan and Ning Xu",
+  title        = "The 2nd Large-scale Video Object Segmentation Challenge - video object segmentation track",
+  month        = oct,
+  year         = "2019",
+}
+```
+Please cite this version using the following bibtex:
 
 ## Evaluation
 Following previous video object segmentation challenge [DAVIS](http://davischallenge.org/), we use Region Jaccard (J) and Boundary F measure (F) as our evaluation metrics. Differently, we evaluate the metrics on different sets of categories, i.e. seen and unseen, in order to evaluate the generalization ability of proposed methods. In detail,

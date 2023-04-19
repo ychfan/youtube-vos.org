@@ -21,17 +21,45 @@ We collected the first large-scale dataset for video instance segmentation, call
 * 4,883 unique video instances
 * 131k high-quality manual annotations
 
+Please cite this version using the following bibtex:
+```
+@inproceedings{ Yang2019vis,
+    author = {Linjie Yang and Yuchen Fan and Ning Xu},
+    title = {Video instance segmentation},
+    booktitle = {ICCV},
+    year = {2019},
+ }
+```
 **The 2021 version** was used for "[the 3rd large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2021/)" at CVPR 2021.
 * 3,859 high-resolution YouTube videos, 2,985 training videos, 421 validation videos and 453 test videos.
 * An improved 40-category label set by merging eagle and owl into bird, ape into monkey, deleting hands, and adding flying disc, squirrel and whale
 * 8,171 unique video instances
 * 232k high-quality manual annotations
 
+Please cite this version using the following bibtex:
+```
+@misc{vis2021,
+  author       = "Linjie Yang and Yuchen Fan and Yang Fu and Ning Xu",
+  title        = "The 3rd Large-scale Video Object Segmentation Challenge - video instance segmentation track",
+  month        = jun,
+  year         = "2021",
+}
+```
 **The 2022 version** was used for "[the 4th large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2022/)" at CVPR 2022.
 * 71 additional long videos in validation and 50 additional long videos in test set, with additional separate evaluation
 * 259 additional unique video instances, 9304 high-quality manual annotations
 * The additional long videos (L) are separately evaluated from previous videos (S), and the final mAP is the average of mAP_L and mAP_S
 
+Please cite this version using the following bibtex:
+
+```
+@misc{vis2022,
+  author       = "Linjie Yang and Yuchen Fan and Ning Xu",
+  title        = "The 4th Large-scale Video Object Segmentation Challenge - video instance segmentation track",
+  month        = jun,
+  year         = "2022",
+}
+```
 We believe YouTube-VIS can serve as a valuable benchmark for not only the video instance segmentation task, but also related tasks such as video semantic segmentation.
 
 

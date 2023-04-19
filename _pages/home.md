@@ -30,7 +30,7 @@ It also has the following features.
 * 340+ minutes duration
 
 
-## Research paper
+## Research papers
 Please cite the following papers if you find our dataset is useful.
 ### Semi-supervised video object segmentation
 * [YouTube-VOS: A Large-Scale Video Object Segmentation Benchmark. arXiv 2018](https://arxiv.org/abs/1809.03327)
