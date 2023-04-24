@@ -38,7 +38,7 @@ Please cite this version using the following bibtex:
   url          = {http://arxiv.org/abs/1809.03327},
 }
 ```
-**The 2019 version** will be used for "[the 2nd large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2019/)" at ICCV 2019. It augments the 2018 version with more videos and annotations.
+**The 2019 version** is used for "[the 2nd large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2019/)" at ICCV 2019. It augments the 2018 version with more videos and annotations.
 * Training: 3471 videos, 65 categories and 6459 unique object instances.
 * Validation: 507 videos, 65 training categories, 26 unseen categories and 1063 unique object instances. 
 * Test: 541 videos, 65 training categories, 29 unseen categories and 1092 unique object instances.
@@ -53,7 +53,22 @@ Please cite this version using the following bibtex:
   year         = "2019",
 }
 ```
+
+**The 2022 version**  is used for “[the 4th large-scale video object segmentation challenge]({{site.baseurl }}/challenge/2022/)” at CVPR 2022. It augments the 2019 version with more videos and annotations in th testset.
+
+* Training and Validation: same as the 2019 version.
+* Test: 746 videos, 65 training categories, 29 unseen categories and 1409 unique object instances. Among them, we have 116 long videos with length at 20 - 120s, annotated at 1fps, with 116 object instances.
+
 Please cite this version using the following bibtex:
+
+```
+@misc{vos2022,
+  author       = "Linjie Yang and Yuchen Fan and Ning Xu",
+  title        = "The 4th Large-scale Video Object Segmentation Challenge - video object segmentation track",
+  month        = jun,
+  year         = "2022",
+}
+```
 
 ## Evaluation
 Following previous video object segmentation challenge [DAVIS](http://davischallenge.org/), we use Region Jaccard (J) and Boundary F measure (F) as our evaluation metrics. Differently, we evaluate the metrics on different sets of categories, i.e. seen and unseen, in order to evaluate the generalization ability of proposed methods. In detail,
