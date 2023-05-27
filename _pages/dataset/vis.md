@@ -45,9 +45,10 @@ Please cite this version using the following bibtex:
   year         = "2021",
 }
 ```
-**The 2022 version** was used for "[the 4th large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2022/)" at CVPR 2022.
-* 71 additional long videos in validation and 50 additional long videos in test set, with additional separate evaluation
-* 259 additional unique video instances, 9304 high-quality manual annotations
+**The 2022 version** was used for "[the 4th large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2022/)" at CVPR 2022 and "[the 5th large-scale video object segmentation challenge]({{ site.baseurl }}/challenge/2023/)" at ICCV 2023.
+* 71 additional long videos in validation and 89 additional long videos in test set, with additional separate evaluation
+* 259 additional unique video instances in validation and 268 additional video instances in test
+* 33597 high-quality masks
 * The additional long videos (L) are separately evaluated from previous videos (S), and the final mAP is the average of mAP_L and mAP_S
 
 Please cite this version using the following bibtex:

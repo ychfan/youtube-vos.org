@@ -15,17 +15,22 @@ The 5th LSVOS challenge will be held in conjunction with [ICCV 2023](https://icc
 
 
 ## Dates
-* **May 10th**: Codalab websites open for registration. Training and validation data are released.  
+* **May 26th**: Codalab websites open for registration. Training and validation data are released.  
 * **Aug 1st - 10th**: Release test data and open the submission of the test results.
 * **Aug 17th**: The final competition results will be announced and top teams will be invited to give oral/poster presentations at our ICCV 2023 workshop.
 
 
 ## Tasks
-TBA
+* [Track 1: Video Object Segmentation]({{ site.baseurl }}/dataset/vos/)
+* [Track 2: Video Instance Segmentation]({{ site.baseurl }}/dataset/vis/)
+* [Track 3: Referring Video Object Segmentation]({{ site.baseurl }}/dataset/rvos/)
+
 
 
 ## Submission
-TBA
+* [Track 1: Video Object Segmentation](https://codalab.lisn.upsaclay.fr/competitions/13524)
+* [Track 2: Video Instance Segmentation](https://codalab.lisn.upsaclay.fr/competitions/13440)
+* [Track 3: Referring Video Object Segmentation](https://codalab.lisn.upsaclay.fr/competitions/13520)
 
 ## Organizers
 
