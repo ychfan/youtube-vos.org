@@ -95,6 +95,10 @@ Senior Research Manager at NVIDIA, Adjunct Professor at the Technical University
 Senior Research Scientist at Google Brain  
 [[Homepage]](https://tkipf.github.io/)
 
+
+### Benjamin Peters
+Marie Curie Fellow at the University of Glasgow
+[[Homepage]](http://www.imp-frankfurt.de/peters.html#about)
 <br />
 <br />
 <br />
