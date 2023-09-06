@@ -96,6 +96,16 @@ Senior Research Scientist at Google Brain
 [[Homepage]](https://tkipf.github.io/)
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.baseurl }}/assets/people/BenjaminPeters.jpg" alt="Benjamin Peters">
+</figure>
+
 ### Benjamin Peters
 Marie Curie Fellow at the University of Glasgow
 [[Homepage]](http://www.imp-frankfurt.de/peters.html#about)
@@ -106,6 +116,8 @@ Marie Curie Fellow at the University of Glasgow
 <br />
 <br />
 
+<br />
+<br />
 
 ## Workshop schedule
 TBA
