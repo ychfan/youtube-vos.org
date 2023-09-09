@@ -59,5 +59,5 @@ sidebar:
 | Team Name | Team Members | Organization | Technical Report |
 |:-|:-|:-|:-|
 | Robertluo | Zhuoyan Luo [1]*, Yicheng Xiao [1]*, Yong Liu [1,2]*, Yitong Wang [2], Yansong Tang [1], Xiu Li [1], Yujiu Yang [1] | [1] Tsinghua Shenzhen International Graduate School, Tsinghua University, [2] ByteDance Inc. | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_1st.pdf) |
-| beter | Yan Li, Qiong Wang | Zhejiang University of Technology  | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_2nd.pdf) |
-| PENG | Bo Miao [1], Zijie Wu [2], Mohammed Bennamoun [1], Yongsheng Gao [3], Ajmal Mian [1] | [1] The University of Western Australia, [2] Hunan University, [3] Griffith University | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_3rd.pdf) |
+| Beter | Yan Li, Qiong Wang | Zhejiang University of Technology  | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_2nd.pdf) |
+| biubiubiubiu | Bo Miao [1], Zijie Wu [2], Mohammed Bennamoun [1], Yongsheng Gao [3], Ajmal Mian [1] | [1] The University of Western Australia, [2] Hunan University, [3] Griffith University | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_3rd.pdf) |
