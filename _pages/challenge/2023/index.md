@@ -34,10 +34,11 @@ The 5th LSVOS challenge will be held in conjunction with [ICCV 2023](https://icc
 
 ## Organizers
 
-:-:|:-:|:-:|:-:|:-:|:-:
-<img src="{{ site.baseurl }}/assets/people/NingXu.jpg" width="500" alt="Ning Xu" />|<img src="{{ site.baseurl }}/assets/people/PavelTokmakov.jpg" width="500" alt="Pavel Tokmakov" />|<img src="{{ site.baseurl }}/assets/people/LinjieYang.jpg" width="500" alt="Linjie Yang" />|<img src="{{ site.baseurl }}/assets/people/YuchenFan.jpg" width="500" alt="Yuchen Fan" />|<img src="{{ site.baseurl }}/assets/people/JieLi.jpg" width="500" alt="Jie Li" />|<img src="{{ site.baseurl }}/assets/people/AdrienGaidon.jpg" width="500" alt="Adrien Gaidon" />
-**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Apple Inc. | **[Pavel Tokmakov](https://pvtokmakov.github.io/home/)**<br />Toyota Research Institute | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance Inc. | **[Yuchen Fan](https://ychfan.github.io/)**<br />Meta Reality Labs | **Jie Li**<br />NVIDIA | **[Adrien Gaidon](https://adriengaidon.com/)**<br />Toyota Research Institute
-
+:-:|:-:|:-:|:-:|:-:
+<img src="{{ site.baseurl }}/assets/people/NingXu.jpg" width="500" alt="Ning Xu" />|<img src="{{ site.baseurl }}/assets/people/PavelTokmakov.jpg" width="500" alt="Pavel Tokmakov" />|<img src="{{ site.baseurl }}/assets/people/LinjieYang.jpg" width="500" alt="Linjie Yang" />|<img src="{{ site.baseurl }}/assets/people/YuchenFan.jpg" width="500" alt="Yuchen Fan" />|<img src="{{ site.baseurl }}/assets/people/JieLi.jpg" width="500" alt="Jie Li" />
+**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Apple Inc. | **[Pavel Tokmakov](https://pvtokmakov.github.io/home/)**<br />Toyota Research Institute | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance Inc. | **[Yuchen Fan](https://ychfan.github.io/)**<br />Meta Reality Labs | **Jie Li**<br />NVIDIA
+<img src="{{ site.baseurl }}/assets/people/AdrienGaidon.jpg" width="500" alt="Adrien Gaidon" />|<img src="{{ site.baseurl }}/assets/people/JoonYoungLee.jpg" width="500" alt="Joon-Young Lee" />|<img src="{{ site.baseurl }}/assets/people/SeongukSeo.jpg" width="500" alt="Seonguk Seo" />
+**[Adrien Gaidon](https://adriengaidon.com/)**<br />Toyota Research Institute | **[Joon-Young Lee](https://joonyoung-cv.github.io/)**<br />Adobe Research | **[Seonguk Seo](https://seoseong.uk/)**<br />SNU, Korea
 
 ## Contact
 For dataset related questions, please feel free to contact [ytbvos@gmail.com](mailto:ytbvos@gmail.com).

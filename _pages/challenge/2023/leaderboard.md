@@ -42,3 +42,22 @@ sidebar:
 | DVIS | Tao Zhang [1], XingYe Tian [2], YiKang Zhou [1], Yu Wu [1], Shunping Ji [1], Cilin Yan [3], Xuebo Wang [2], Xin Tao [2], Yuan Zhang [2], Pengfei Wan [2] | [1] Wuhan University [2] Y-tech, Kuaishou Technology [3] Beihang University | [PDF](https://arxiv.org/abs/2308.14392) |
 | ZJU-AIM | Kaining Ying [1], Zhenhua Wang [2], Lin Yuanbo Wu [3], Chengxiang Fan [1], Xianghua Xie [3] | [1] Zhejiang University, [2] Northwest A&F University, [3] Swansea University,  | [PDF]() |
 | GXU-LIPE | Fang Gao [1], Yan Jin [1], Wenjie Wu [1], Lei Shi [1], Shengheng Ma [2], Yu Jun [3], Feng Shuang [1] | [1] Guangxi University, [2] Guangxi Ctech Alpha Technology Co., [3] University of Science and Technology of China | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/VIS_3rd.pdf) |
+
+
+
+## Track 3: Referring Video Object Segmentation
+### Leaderboard
+
+| Team Name    | Overall   | J         | F         | Ranking |
+|:-------------|:----------|:----------|:----------|--------|
+| Robertluo       | 0.697 (1) | 0.677 (1) | 0.717 (1) | 1 |
+| Beter     | 0.663 (2) | 0.641 (2) | 0.684     (2) | 2 |
+| biubiubiubiu         | 0.604 (3) | 0.589 (3) | 0.619 (3) | 3 |
+
+### Team Information
+
+| Team Name | Team Members | Organization | Technical Report |
+|:-|:-|:-|:-|
+| Robertluo | Zhuoyan Luo [1]*, Yicheng Xiao [1]*, Yong Liu [1,2]*, Yitong Wang [2], Yansong Tang [1], Xiu Li [1], Yujiu Yang [1] | [1] Tsinghua Shenzhen International Graduate School, Tsinghua University, [2] ByteDance Inc. | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_1st.pdf) |
+| Beter | Yan Li, Qiong Wang | Zhejiang University of Technology  | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_2nd.pdf) |
+| biubiubiubiu | Bo Miao [1], Zijie Wu [2], Mohammed Bennamoun [1], Yongsheng Gao [3], Ajmal Mian [1] | [1] The University of Western Australia, [2] Hunan University, [3] Griffith University | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/RVOS_3rd.pdf) |
