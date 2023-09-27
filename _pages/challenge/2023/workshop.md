@@ -120,4 +120,28 @@ Marie Curie Fellow at the University of Glasgow
 <br />
 
 ## Workshop schedule
-TBA
+Oct 2, 2023, 8:30 - 17:20 GMT+2 @room S02
+
+| Time (GMT+2)    | Event     | Speaker    |
+|:-------------|:----------|:-----------|
+| 8:30 | **Opening remarks** | Host |
+| 8:40 | **Invited Talk #1**: VIS-à-MOT-: A face-to-face of video tracking benchmarks | Tim Meinhardt (NVDIA) |
+| 9:10 | ** VOS Track introduction **  | Host |
+| 9:20 | **Video Object Segmentation under Transformations problem introduction**  | Host |
+| 9:30 | **VOS winning teams talks**  | Challenge participants |
+| 10:00 | **Invited Talk #2**: All the Ways to Track Occluded Objects | Carl Vondrick (Columbia University) |
+| 10:30 | **Coffee Break** |  |
+| 10:50 | **Invited Talk #3**:Dynamic object vision in humans and machines: Bridging human cognitive science and computer vision  | Benjamin Peters (University of Glasgow and Columbia University) |
+| 11:20 | **Video Instance Segmentation track introduction** | Host |
+| 11:30 | **VIS winning teams talks**  | Challenge participants |
+| 12:00 | **Invited Talk #4**: TBD |  Kristen Grauman (UT Austin and Meta) |
+| 12:30 | **Lunch Break** | |
+| 13:30 | **Invited talk #5**: Large-Scale Fine-Grained Tracking | Adam Harley (Stanford University) |
+| 14:00 | **Referring VOS track introduction** | Host |
+| 14:10 | **RVOS winning teams talks** | Challenge participants |
+| 14:40 | **Invited Talk #6**: Dense video object captioning | Cordelia Schmid (Inria and Google Research) | 
+| 15:10 | **Coffee Break** | | 
+| 15:30 | **Invited talk #7**: TBD | Thomas Kipf (Google Deepmind) | 
+| 16:00 | **Roundtable discussion**  | |
+| 17:00 | **Awarding and closing marks** | Host |
+| 17:20 | **Workshop Ends** | |
