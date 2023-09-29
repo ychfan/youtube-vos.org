@@ -122,11 +122,13 @@ Marie Curie Fellow at the University of Glasgow
 ## Workshop schedule
 Oct 2, 2023, 8:30 - 17:20 GMT+2 @room S02
 
+[Zoom link](https://us06web.zoom.us/j/84100538001?pwd=EUDw0ForkPax82JTsUHDzQ9e1kNc9w.1) (code: 720009)
+
 | Time (GMT+2)    | Event     | Speaker    |
 |:-------------|:----------|:-----------|
 | 8:30 | **Opening remarks** | Host |
 | 8:40 | **Invited Talk #1**: VIS-à-MOT-: A face-to-face of video tracking benchmarks | Tim Meinhardt (NVDIA) |
-| 9:10 | ** VOS Track introduction **  | Host |
+| 9:10 | **VOS Track introduction**  | Host |
 | 9:20 | **Video Object Segmentation under Transformations problem introduction**  | Host |
 | 9:30 | **VOS winning teams talks**  | Challenge participants |
 | 10:00 | **Invited Talk #2**: All the Ways to Track Occluded Objects | Carl Vondrick (Columbia University) |
@@ -143,5 +145,5 @@ Oct 2, 2023, 8:30 - 17:20 GMT+2 @room S02
 | 15:10 | **Coffee Break** | | 
 | 15:30 | **Invited talk #7**: TBD | Thomas Kipf (Google Deepmind) | 
 | 16:00 | **Roundtable discussion**  | |
-| 17:00 | **Awarding and closing marks** | Host |
+| 17:00 | **Closing marks** | Host |
 | 17:20 | **Workshop Ends** | |
