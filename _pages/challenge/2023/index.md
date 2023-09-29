@@ -1,6 +1,6 @@
 ---
 title: "The 5th Large-scale Video Object Segmentation Challenge"
-permalink: /challenge/2023/
+permalink: /challenge/2023/workshop
 excerpt: "Workshop in conjunction with ICCV 2023, Paris, France"
 classes: wide
 header:
@@ -31,14 +31,6 @@ The 5th LSVOS challenge will be held in conjunction with [ICCV 2023](https://icc
 * [Track 1: Video Object Segmentation](https://codalab.lisn.upsaclay.fr/competitions/13524)
 * [Track 2: Video Instance Segmentation](https://codalab.lisn.upsaclay.fr/competitions/13440)
 * [Track 3: Referring Video Object Segmentation](https://codalab.lisn.upsaclay.fr/competitions/13520)
-
-## Organizers
-
-:-:|:-:|:-:|:-:|:-:
-<img src="{{ site.baseurl }}/assets/people/NingXu.jpg" width="500" alt="Ning Xu" />|<img src="{{ site.baseurl }}/assets/people/PavelTokmakov.jpg" width="500" alt="Pavel Tokmakov" />|<img src="{{ site.baseurl }}/assets/people/LinjieYang.jpg" width="500" alt="Linjie Yang" />|<img src="{{ site.baseurl }}/assets/people/YuchenFan.jpg" width="500" alt="Yuchen Fan" />|<img src="{{ site.baseurl }}/assets/people/JieLi.jpg" width="500" alt="Jie Li" />
-**[Ning Xu](https://sites.google.com/view/ningxu/)**<br />Apple Inc. | **[Pavel Tokmakov](https://pvtokmakov.github.io/home/)**<br />Toyota Research Institute | **[Linjie Yang](https://sites.google.com/site/linjieyang89/)**<br />ByteDance Inc. | **[Yuchen Fan](https://ychfan.github.io/)**<br />Meta Reality Labs | **Jie Li**<br />NVIDIA
-<img src="{{ site.baseurl }}/assets/people/Achal.jpg" width="520" alt="Achal Dave" /> | <img src="{{ site.baseurl }}/assets/people/AdrienGaidon.jpg" width="500" alt="Adrien Gaidon" />|<img src="{{ site.baseurl }}/assets/people/JoonYoungLee.jpg" width="500" alt="Joon-Young Lee" />|<img src="{{ site.baseurl }}/assets/people/SeongukSeo.jpg" width="500" alt="Seonguk Seo" />
-**[Achal Dave](https://www.achaldave.com/)**<br />Toyota Research Institute | **[Adrien Gaidon](https://adriengaidon.com/)**<br />Toyota Research Institute | **[Joon-Young Lee](https://joonyoung-cv.github.io/)**<br />Adobe Research | **[Seonguk Seo](https://seoseong.uk/)**<br />SNU, Korea
 
 ## Contact
 For dataset related questions, please feel free to contact [ytbvos@gmail.com](mailto:ytbvos@gmail.com).
