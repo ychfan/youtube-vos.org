@@ -118,7 +118,7 @@ Senior Research Scientist at Google Brain
 
 ### Benjamin Peters
 Marie Curie Fellow at the University of Glasgow
-[[Homepage]](http://www.imp-frankfurt.de/peters.html#about)
+[[Email]](Benjamin.peters@posteo.de)
 <br />
 <br />
 <br />
