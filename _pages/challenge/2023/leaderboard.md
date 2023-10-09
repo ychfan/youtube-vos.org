@@ -41,7 +41,7 @@ sidebar:
 |:-|:-|:-|:-|
 | DVIS | Tao Zhang [1], XingYe Tian [2], YiKang Zhou [1], Yu Wu [1], Shunping Ji [1], Cilin Yan [3], Xuebo Wang [2], Xin Tao [2], Yuan Zhang [2], Pengfei Wan [2] | [1] Wuhan University [2] Y-tech, Kuaishou Technology [3] Beihang University | [PDF](https://arxiv.org/abs/2308.14392) |
 | ZJU-AIM | Kaining Ying [1], Zhenhua Wang [2], Lin Yuanbo Wu [3], Chengxiang Fan [1], Xianghua Xie [3] | [1] Zhejiang University, [2] Northwest A&F University, [3] Swansea University,  | [PDF]() |
-| GXU-LIPE | Fang Gao [1], Yan Jin [1], Wenjie Wu [1], Lei Shi [1], Shengheng Ma [2], Yu Jun [3], Feng Shuang [1] | [1] Guangxi University, [2] Guangxi Ctech Alpha Technology Co., [3] University of Science and Technology of China | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/VIS_3rd.pdf) |
+| GXU-LIPE | Fang Gao [1], Yan Jin [1], Wenjie Wu [1], Lei Shi [1], Shengheng Ma [2], Jun Yu [3], Feng Shuang [1] | [1] Guangxi University, [2] Guangxi Ctech Alpha Technology Co., [3] University of Science and Technology of China | [PDF]({{ site.baseurl }}/assets/challenge/2023/reports/VIS_3rd.pdf) |
 
 
 
