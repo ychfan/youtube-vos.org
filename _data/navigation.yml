@@ -24,6 +24,12 @@ dataset:
         url: /dataset/term/
 
 challenge:
+  - title: "2024"
+    children:
+      - title: Challenge
+        url: https://lsvos.github.io
+      - title: Workshop
+        url: https://lsvos.github.io
   - title: "2023"
     children:
       - title: Challenge
