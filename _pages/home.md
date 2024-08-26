@@ -9,7 +9,7 @@ layout: splash
 ---
 
 ## News
-* "[The 6th Large-scale Video Segmentation Challenge](https://lsvos.github.io/)" has started and is calling for participants! We will have the challenge workshop in conjunction with ECCV 2024 at Milan, Italy.
+* "[The 6th Large-scale Video Segmentation Challenge](https://lsvos.github.io/)" has finished and the leaderboard is out. Congrats to all top teams! We will have the challenge workshop in conjunction with ECCV 2024 at Milan, Italy.
 * Due to maintainance issues of the old Codalab website, we have migrated the VOS and VIS evaluation servers of the 2019 challenge to the new codalab site. [Details]({{ site.baseurl }}/challenge/2019/)
 
 
