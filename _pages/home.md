@@ -9,7 +9,8 @@ layout: splash
 ---
 
 ## News
-* "[The 6th Large-scale Video Segmentation Challenge](https://lsvos.github.io/)" has finished and the leaderboard is out. Congrats to all top teams! We will have the challenge workshop in conjunction with ECCV 2024 at Milan, Italy.
+* The 7th Large-scale Video Object Challenge in conjunction with ICCV 2025 is ongoing! [Checkout](https://lsvos.github.io/)
+* Due to the numerous requests from the community, we now have released the ground truth labels for validation sets of VOS2019, VIS[2019, 2021, 2022] in the corresponding codalab download links!
 * Due to maintainance issues of the old Codalab website, we have migrated the VOS and VIS evaluation servers of the 2019 challenge to the new codalab site. [Details]({{ site.baseurl }}/challenge/2019/)
 
 

@@ -83,5 +83,5 @@ We have set up evaluation servers on CodaLab for the convenience of evaluating n
 
 
 ## Data Download
-* ~~[2019 version](https://competitions.codalab.org/competitions/20127#participate-get_data)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/6066#participate-get_data).
-* ~~[2018 version](https://competitions.codalab.org/competitions/19544#participate-get-data)~~ [new](https://codalab.lisn.upsaclay.fr/competitions/7685#participate-get_data).
+* ~~[2019 version](https://competitions.codalab.org/competitions/20127#participate-get_data)~~ [new](https://drive.google.com/drive/folders/1XwjQ-eysmOb7JdmJAwfVOBZX-aMbHccC?usp=sharing).
+* ~~[2018 version](https://competitions.codalab.org/competitions/19544#participate-get-data)~~ [new](https://drive.google.com/drive/folders/1L9JAl1BCtzomRJ34tKsU9tJUmF-ZMFOM?usp=drive_link).
