@@ -9,6 +9,7 @@ layout: splash
 ---
 
 ## News
+* Due to recent [discontinuation of CodaLab services](https://codalab.lisn.upsaclay.fr/), we have released all testset ground-truth annotations for VOS2019/VIS2019/VIS2021/VIS2022 on the corresponding Google Drive download links. Please use them accordingly.
 * The 7th Large-scale Video Object Challenge in conjunction with ICCV 2025 is ongoing! [Checkout](https://lsvos.github.io/)
 * Due to the numerous requests from the community, we now have released the ground truth labels for validation sets of VOS2019, VIS[2019, 2021, 2022] in the corresponding codalab download links!
 * Due to maintainance issues of the old Codalab website, we have migrated the VOS and VIS evaluation servers of the 2019 challenge to the new codalab site. [Details]({{ site.baseurl }}/challenge/2019/)
